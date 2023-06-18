@@ -5,7 +5,7 @@ maven-standalone java app
 
 # Java standalone app build
 
-git clone https://github.com/zielotechgroup/maven-standalone-app.git
+git clone https://github.com/saurabhrpatil44/maven-standalone-app.git
 
 cd maven-standalone-app
 
